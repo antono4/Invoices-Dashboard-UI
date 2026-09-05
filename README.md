@@ -1,2 +1,26 @@
-Last updated: 2026-09-06 03:36:30 WIB
-Last updated: 2026-09-06 04:08:59 WIB
+# Invoices-Dashboard-UI
+
+
+
+## 📋 Overview
+
+This repository contains **8 files** and is built with the following technologies:
+
+JavaScript
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-06 04:13:14 WIB*
